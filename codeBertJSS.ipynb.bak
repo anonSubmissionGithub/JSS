@@ -1137,7 +1137,7 @@
    ],
    "source": [
     "import numpy as np\n",
-    "#testFile = open(\"outputCodeBERTJSS.txt\",\"w\")\n",
+    "#testFile = open(\"outputCodeBERTREFSQ.txt\",\"w\")\n",
     "vectors_table= []\n",
     "vectors_table_test= []\n",
     "vectors_table_padded= []\n",
@@ -1547,7 +1547,7 @@
    ],
    "source": [
     "import numpy as np\n",
-    "#testFile = open(\"outputCodeBERTJSS.txt\",\"a\")\n",
+    "#testFile = open(\"outputCodeBERTREFSQ.txt\",\"a\")\n",
     "vectors_table_test= []\n",
     "countExecuted = 0\n",
     "size_list = []\n",
